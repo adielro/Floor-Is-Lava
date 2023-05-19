@@ -30,6 +30,7 @@ The objective of the game is simple: avoid touching the lava at all costs! The l
 ![image](https://github.com/adielro/Floor-Is-Lava/assets/75253834/d3fb5a9b-27cb-4514-a19c-96430353d3c1)
 
 
+
 ## Contact
 
 If you have any questions, feedback, or suggestions, feel free to reach out at [adielrozenfeld@gmail.com](mailto:adielrozenfeld@gmail.com).
