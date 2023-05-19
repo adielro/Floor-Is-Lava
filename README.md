@@ -1,4 +1,4 @@
-# The Floor is Lava
+# Floor is Lava
 
 "The Floor is Lava" is a thrilling 2D survival game developed in Unity. In this game, players must navigate a treacherous world of molten lava, testing their agility and reflexes to stay alive for as long as possible.
 
