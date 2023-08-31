@@ -14,7 +14,7 @@ The objective of the game is simple: avoid touching the lava at all costs! The l
 
 ## Installation
 
-1. Download the game from this link: https://drive.google.com/file/d/1-uqe4L8NN_UQtiuT7tL-EcUWQ_2_Or0G/view?usp=sharing
+1. Download the game from this link: https://drive.google.com/file/d/1oIN7tBJ5Ru3lE9hysuNTNXDe2xn1B6Mm/view?usp=sharing
 2. Extract the zip
 3. Open the exe file
 4. Click the "Play" button to start the game.
