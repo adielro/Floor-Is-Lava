@@ -31,7 +31,7 @@ The objective of the game is simple: avoid touching the lava at all costs! The l
 
 
 ## Gameplay
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=5CTUOKQOgx4))
+[![YouTube Video](https://img.youtube.com/vi/5CTUOKQOgx4/0.jpg)](https://www.youtube.com/watch?v=5CTUOKQOgx4)
 
 
 ## Contact
